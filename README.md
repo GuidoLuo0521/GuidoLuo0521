@@ -1,6 +1,8 @@
 # Hi 👋
 
-![1626680761907](images/1626680761907.png)
+<center><image src = "images/1626680761907.png"/</center>
+
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GuidoLuo0521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
