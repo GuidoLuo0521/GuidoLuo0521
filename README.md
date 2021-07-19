@@ -1,6 +1,6 @@
 # Hi 👋
 
-<center><image src = "images/1626680761907.png"/</center>
+<center><image src = "images/1626680761907.png"/></center>
 
 
 
