@@ -1,12 +1,14 @@
 # Hi 👋
 
+![1626680761907](images/1626680761907.png)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GuidoLuo0521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## 个人
 
-* 👨  工作五年，育有一女。
 * 🔥  `C++`，`C#`，`Python`
 * 😊  `MFC`，`Qt`，`OpenCV`
+* 👨  `pcb`，`ecg`
 
 
 
@@ -35,6 +37,8 @@
 
 ## 其他
 
-* 😁 [简历Web](https://guidoluo0521.github.io/)
-* 😁 [简历PDF](https://guidoluo0521.github.io/罗吉熙的简历.pdf)
+* 👨  工作五年，育有一女。
 
+* 😁  简历：[WEB](https://guidoluo0521.github.io/)，  [PDF](https://guidoluo0521.github.io/罗吉熙的简历.pdf)
+* 📱  +8615823159025  (better than email)
+* 📧  15823159025@163.com，447459623@qq.com
