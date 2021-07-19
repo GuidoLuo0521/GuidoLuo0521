@@ -18,7 +18,7 @@
 
 - 👯 [Diary](https://github.com/GuidoLuo0521/Diary)：日记，见闻分享。
 
-- 🤔 [Though](https://github.com/GuidoLuo0521/Though)：杂文，思考，时事评论。
+- 🤔 [Thought](https://github.com/GuidoLuo0521/Thought)：杂文，思考，时事评论。
 
 - 💬 [Projects](https://github.com/GuidoLuo0521/Projects)：一些自己写的小项目合集。
 
@@ -36,5 +36,5 @@
 ## 其他
 
 * 😁 [简历Web](https://guidoluo0521.github.io/)
-* 😁 [简历Pdf](https://guidoluo0521.github.io/罗吉熙的简历.pdf)
+* 😁 [简历PDF](https://guidoluo0521.github.io/罗吉熙的简历.pdf)
 
