@@ -20,10 +20,6 @@
 
 - 🌱 [Note](https://github.com/GuidoLuo0521/Notes)：读书笔记。
 
-- 👯 [Diary](https://github.com/GuidoLuo0521/Diary)：日记，见闻分享。
-
-- 🤔 [Thought](https://github.com/GuidoLuo0521/Thought)：杂文，思考，时事评论。
-
 - 💬 [Projects](https://github.com/GuidoLuo0521/Projects)：一些自己写的小项目合集。
 
 - 📫 [Collected](https://github.com/GuidoLuo0521/Collected)：收集的，封装的第三方库。
