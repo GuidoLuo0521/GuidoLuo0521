@@ -35,7 +35,7 @@
 
 ## 其他
 
-* 👨  工作五年，育有一女。
+* 👨  
 
 * 😁  简历：[WEB](https://guidoluo0521.github.io/)，  [PDF](https://guidoluo0521.github.io/罗吉熙的简历.pdf)
 * 📱  +8615823159025  (better than email)
